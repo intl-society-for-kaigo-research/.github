@@ -11,7 +11,8 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-International Society for Kaigo Research (国際介護研究会) は、介護に関する会員相互ならびに内外の関連学術団体との研究連絡、知識の交換、提携の場です。
+[International Society for Kaigo Research](
+https://intl-society-for-kaigo-research.github.io/home/) (国際介護研究会) は、介護に関する会員相互ならびに内外の関連学術団体との研究連絡、知識の交換、提携の場です。
 
 [ISKR に入会](https://gkb.jp/s/iskr/application) | [Join ISKR](https://gkb.jp/s/iskr/application)
 
